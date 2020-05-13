@@ -1,0 +1,13 @@
+{
+  "name": "Hello-Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "luck <lukscerdeira96@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ola.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
